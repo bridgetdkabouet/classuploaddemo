@@ -1,0 +1,24 @@
+p}
+
+a{ color: white;
+}
+
+.box1{
+	width: 45%;
+	height: 300px;
+	background-color:grey;
+}
+
+.box2{ 
+	width:45%;
+	height: 300px;
+	border: 10px solid black;
+	float: left;
+}
+
+.box3{
+	width: 45%;
+	height: 300px;
+	border: 10px solid orange;
+	float: left;
+}
